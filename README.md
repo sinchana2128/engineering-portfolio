@@ -6,3 +6,4 @@ Engineering student. I am interested in programming,
 web development, and learning new technologies.
 
 - Learning Java and C programming.
+- Interested in web development.
