@@ -11,14 +11,6 @@ web development, and learning new technologies.
 - skill: java and c++.
 
 
-
-
-
-
-
-
-
-
 ## Projects
 
 I am learning programming and web development.
