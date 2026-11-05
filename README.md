@@ -7,3 +7,4 @@ web development, and learning new technologies.
 
 - Learning Java and C programming.
 - Interested in web development.
+- Goal: Become a skilled software developer.
