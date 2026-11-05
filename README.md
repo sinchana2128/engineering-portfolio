@@ -1,6 +1,5 @@
 # engineering-portfolio
 # About Me
-# About Me
 
 Hello! My name is Sinchana. I am a Computer Science
 Engineering student. I am interested in programming,
